@@ -1,0 +1,18 @@
+2022/09/27 00:37:39 - Spoon - Running transformation using the Kettle execution engine
+2022/09/27 00:37:40 - Spoon - Transformation opened.
+2022/09/27 00:37:40 - Spoon - Launching transformation [Transf 05 - Geografia - PAIS DS]...
+2022/09/27 00:37:40 - Spoon - Started the transformation execution.
+2022/09/27 00:37:40 - Transf 05 - Geografia - PAIS DS - Expedindo in�cio para transforma��o [Transf 05 - Geografia - PAIS DS]
+2022/09/27 00:37:40 - Table output.0 - Connected to database [DS] (commit=1000)
+2022/09/27 00:37:40 - Table input.0 - Finished reading query, closing connection
+2022/09/27 00:37:40 - Table input.0 - Finished processing (I=5151, O=0, R=0, W=5151, U=0, E=0)
+2022/09/27 00:37:41 - Database lookup.0 - Finished processing (I=5151, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/27 00:37:41 - Select values.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/27 00:37:41 - Get System Info.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/27 00:37:41 - Add constants.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/27 00:37:41 - If field value is null.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/27 00:37:41 - Sort rows.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/27 00:37:41 - Unique rows.0 - Finished processing (I=0, O=0, R=5151, W=6, U=0, E=0)
+2022/09/27 00:37:41 - Select values 2.0 - Finished processing (I=0, O=0, R=6, W=6, U=0, E=0)
+2022/09/27 00:37:41 - Table output.0 - Finished processing (I=0, O=6, R=6, W=6, U=0, E=0)
+2022/09/27 00:37:41 - Spoon - The transformation has finished!!

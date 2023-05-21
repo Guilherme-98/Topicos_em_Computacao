@@ -1,0 +1,9 @@
+2022/09/27 01:29:35 - Spoon - Running transformation using the Kettle execution engine
+2022/09/27 01:29:35 - Spoon - Transformation opened.
+2022/09/27 01:29:35 - Spoon - Launching transformation [Transf 06 - D_Funcionário DW]...
+2022/09/27 01:29:35 - Spoon - Started the transformation execution.
+2022/09/27 01:29:35 - Transf 06 - D_Funcionário DW - Expedindo in�cio para transforma��o [Transf 06 - D_Funcionário DW]
+2022/09/27 01:29:35 - Table input.0 - Finished reading query, closing connection
+2022/09/27 01:29:35 - Table input.0 - Finished processing (I=11, O=0, R=0, W=11, U=0, E=0)
+2022/09/27 01:29:35 - Combination lookup/update.0 - Finished processing (I=11, O=11, R=11, W=11, U=0, E=0)
+2022/09/27 01:29:35 - Spoon - The transformation has finished!!

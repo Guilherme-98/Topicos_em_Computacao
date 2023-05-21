@@ -1,0 +1,16 @@
+2022/09/20 00:10:45 - Spoon - Running transformation using the Kettle execution engine
+2022/09/20 00:10:45 - Spoon - Transformation opened.
+2022/09/20 00:10:45 - Spoon - Launching transformation [Transf 03 - Cliente DS]...
+2022/09/20 00:10:45 - Spoon - Started the transformation execution.
+2022/09/20 00:10:45 - Transf 03 - Cliente DS - Expedindo in�cio para transforma��o [Transf 03 - Cliente DS]
+2022/09/20 00:10:45 - Table output.0 - Connected to database [DS] (commit=1000)
+2022/09/20 00:10:46 - Table input.0 - Finished reading query, closing connection
+2022/09/20 00:10:46 - Table input.0 - Finished processing (I=5151, O=0, R=0, W=5151, U=0, E=0)
+2022/09/20 00:10:46 - Select values.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/20 00:10:46 - Get System Info.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/20 00:10:46 - Add constants.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/20 00:10:46 - If field value is null.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/09/20 00:10:46 - Sort rows.0 - Finished processing (I=0, O=0, R=5151, W=1216, U=0, E=0)
+2022/09/20 00:10:46 - Unique rows.0 - Finished processing (I=0, O=0, R=1216, W=1216, U=0, E=0)
+2022/09/20 00:10:46 - Table output.0 - Finished processing (I=0, O=1216, R=1216, W=1216, U=0, E=0)
+2022/09/20 00:10:46 - Spoon - The transformation has finished!!

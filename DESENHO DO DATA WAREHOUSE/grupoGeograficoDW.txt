@@ -1,0 +1,9 @@
+2022/09/27 00:34:20 - Spoon - Running transformation using the Kettle execution engine
+2022/09/27 00:34:20 - Spoon - Transformation opened.
+2022/09/27 00:34:20 - Spoon - Launching transformation [Transf 04 - Geografia DW]...
+2022/09/27 00:34:20 - Spoon - Started the transformation execution.
+2022/09/27 00:34:20 - Transf 04 - Geografia DW - Expedindo in�cio para transforma��o [Transf 04 - Geografia DW]
+2022/09/27 00:34:20 - Table input.0 - Finished reading query, closing connection
+2022/09/27 00:34:20 - Table input.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2022/09/27 00:34:21 - Combination lookup/update.0 - Finished processing (I=3, O=3, R=3, W=3, U=0, E=0)
+2022/09/27 00:34:21 - Spoon - The transformation has finished!!

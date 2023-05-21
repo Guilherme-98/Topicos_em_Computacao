@@ -1,0 +1,21 @@
+2022/10/05 17:38:13 - Spoon - Running transformation using the Kettle execution engine
+2022/10/05 17:38:14 - Spoon - Transformation opened.
+2022/10/05 17:38:14 - Spoon - Launching transformation [Transf 08 - Fatos Vendas Detalhes DS]...
+2022/10/05 17:38:14 - Spoon - Started the transformation execution.
+2022/10/05 17:38:14 - Transf 08 - Fatos Vendas Detalhes DS - Expedindo in�cio para transforma��o [Transf 08 - Fatos Vendas Detalhes DS]
+2022/10/05 17:38:14 - Table input.0 - Finished reading query, closing connection
+2022/10/05 17:38:14 - Table input.0 - Finished processing (I=5151, O=0, R=0, W=5151, U=0, E=0)
+2022/10/05 17:38:14 - Replace in string.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:14 - Select values.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:14 - Sort rows.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:14 - Group by 2.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:15 - Database lookup.0 - Finished processing (I=5151, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:15 - Database lookup 2.0 - Finished processing (I=5151, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:15 - Database lookup 3.0 - Finished processing (I=5151, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:16 - Database lookup 4.0 - Finished processing (I=5151, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:16 - Select values 2.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:16 - Get System Info.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:16 - Add constants.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:16 - If field value is null.0 - Finished processing (I=0, O=0, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:17 - Insert / Update.0 - Finished processing (I=5151, O=5151, R=5151, W=5151, U=0, E=0)
+2022/10/05 17:38:17 - Spoon - The transformation has finished!!
